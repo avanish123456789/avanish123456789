@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with data science jobs referral
 - 💬 Ask me about data science, in particular machine learning algorithms
 - 📫 How to reach me: https://www.linkedin.com/in/avanissh
-- ⚡ Fun fact: the casino always wins!
+- ⚡ Fun fact: casino always wins!
